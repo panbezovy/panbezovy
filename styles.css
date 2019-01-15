@@ -1,0 +1,11 @@
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+/* raleway font */
+body {
+    font-family: Roboto;
+}
